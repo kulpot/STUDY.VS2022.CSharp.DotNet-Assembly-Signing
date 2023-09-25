@@ -2,7 +2,7 @@
 using System.Reflection;
 
 //ref link:https://www.youtube.com/watch?v=YczvTozOSB4&list=PLRwVmtr-pp06rfSgNYu_oBg40DkwXiRHt&index=18
-//  .Net Assembly Signing - means
+//  .Net Assembly Signing - means public key authentication approval
 
 //[assembly: AssemblyVersion("1.0.0.0")]         // requires knowledge in attributes/reflections
 [assembly: AssemblyVersion("2.0.0.0")]
